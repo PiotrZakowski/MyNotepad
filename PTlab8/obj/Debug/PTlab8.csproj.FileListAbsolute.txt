@@ -1,0 +1,30 @@
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\bin\Debug\PTlab8.exe.config
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\bin\Debug\PTlab8.exe
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\bin\Debug\PTlab8.pdb
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8.csprojResolveAssemblyReference.cache
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\MainWindow.baml
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\MainWindow.g.cs
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\App.g.cs
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8_MarkupCompile.cache
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8.g.resources
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8.Properties.Resources.resources
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8.csproj.GenerateResource.Cache
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8.exe
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\PTlab8.pdb
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\FormWindow.baml
+C:\Users\Sunnivran\Desktop\Studia\Semestr 4\Laboratoria\PTlab8\PTlab8\obj\Debug\FormWindow.g.cs
+D:\160320\PTlab8\PTlab8\bin\Debug\PTlab8.exe.config
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8.exe
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8.pdb
+D:\160320\PTlab8\PTlab8\bin\Debug\PTlab8.exe
+D:\160320\PTlab8\PTlab8\bin\Debug\PTlab8.pdb
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8.csprojResolveAssemblyReference.cache
+D:\160320\PTlab8\PTlab8\obj\Debug\FormWindow.baml
+D:\160320\PTlab8\PTlab8\obj\Debug\MainWindow.baml
+D:\160320\PTlab8\PTlab8\obj\Debug\FormWindow.g.cs
+D:\160320\PTlab8\PTlab8\obj\Debug\MainWindow.g.cs
+D:\160320\PTlab8\PTlab8\obj\Debug\App.g.cs
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8_MarkupCompile.cache
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8.g.resources
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8.Properties.Resources.resources
+D:\160320\PTlab8\PTlab8\obj\Debug\PTlab8.csproj.GenerateResource.Cache

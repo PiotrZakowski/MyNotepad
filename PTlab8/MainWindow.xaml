@@ -1,0 +1,24 @@
+﻿<Window x:Class="PTlab8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PTlab8" Height="525" Width="1022.978">
+    <Grid Margin="0,0,0,8" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="481*"/>
+            <RowDefinition Height="31*"/>
+        </Grid.RowDefinitions>
+        <ToolBar HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="32" Width="60" Header="File" FontSize="16" Background="#FFE2E2E2">
+            <Menu Height="50" VerticalAlignment="Top" Width="60">
+                <MenuItem Header="Open" Margin="0" Click="menuItem_FileOpen"/>
+                <MenuItem Header="Exit" Margin="0" Click="menuItem_FileExit"/>
+            </Menu>
+        </ToolBar>
+        <TreeView x:Name="treeView" HorizontalAlignment="Left" Height="400" Margin="10,47,0,0" VerticalAlignment="Top" Width="400" Background="#FFE2E2E2"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="400" Margin="429,47,0,0" VerticalAlignment="Top" Width="575" Background="Wheat">
+            <TextBlock x:Name="textBlock_FileContent" TextWrapping="Wrap" FontSize="12" Width="550" Foreground="Black"/>
+        </ScrollViewer>
+        <StatusBar HorizontalAlignment="Left" Height="30" Margin="10,0,0,-1" VerticalAlignment="Top" Width="400" Background="#FFE2E2E2" Grid.Row="1">
+            <TextBlock x:Name="textBlock_DOSAttributes" TextWrapping="Wrap" Height="21" Width="390" FontSize="16"/>
+        </StatusBar>
+    </Grid>
+</Window>
